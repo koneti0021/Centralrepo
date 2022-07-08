@@ -1,2 +1,5 @@
 Hi
-what about
+Hello 
+How are you
+Iam good
+What about you
